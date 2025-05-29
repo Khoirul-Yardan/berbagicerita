@@ -58,6 +58,8 @@
     <a href="admin.php">Admin Panel</a>
     <a href="terimakasih.php">Terima Kasih</a>
   </nav>
-
+<footer>
+    &copy; <?php echo date("Y"); ?> Jalan Pulang | KYMZ 
+  </footer>
 </body>
 </html>
